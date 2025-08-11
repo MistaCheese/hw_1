@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hw_1</string>
+    <string name="add_cube_button">Добавить кубик</string>
+</resources>
